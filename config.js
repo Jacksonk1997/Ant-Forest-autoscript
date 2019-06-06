@@ -1,3 +1,4 @@
+"ui";
 /*
  * @Author: NickHopps
  * @Last Modified by: NickHopps
@@ -5,7 +6,7 @@
  * @Description: 配置文件
  */
 
-"ui";
+
 
 var config = storages.create("ant_forest_config");
 if (!config.contains("color_offset")) {
